@@ -1,9 +1,9 @@
 <h1 align="center">Just another profile readme</h1>
 
 
-<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true">
+<img src="https://github.com/1n40/1n40/blob/main/intro.gif?raw=true">
  
-<img src="https://github.com/1n40/temp/blob/master/walk.gif?raw=true" align="right" width="25%">
+<img src="https://github.com/1n40/1n40/blob/main/walk.gif?raw=true" align="right" width="25%">
 
 
 ```http
@@ -35,7 +35,7 @@ Server: Werkzeug/2.0.1 Python/3.9.0
 
 
 
-<img align="centre" src="https://github.com/1n40/temp/blob/master/sleek.png?raw=true">
+<img align="centre" src="https://github.com/1n40/1n40/blob/main/sleek.png?raw=true">
 
 ---
 <p>
