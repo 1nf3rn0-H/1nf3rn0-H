@@ -7,7 +7,7 @@
 
 
 ```http
-$ http GET localhost/intro.html?cmd=whoami
+$ http GET localhost/intro.php?cmd=whoami
 
 
 HTTP/1.0 200 OK
