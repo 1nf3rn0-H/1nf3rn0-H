@@ -29,8 +29,8 @@ Server: Werkzeug/2.0.1 Python/3.9.0
     
     
 <br>
-<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n40&&show_icons=true&hide_border=true&theme=blue-green"/>
-<img align="right" width="62%" src="https://github-readme-stats.vercel.app/api?username=1n40&count_private=true&show_icons=true&hide_border=true&theme=blue-green" href="https://github.com/1n40"/>
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nf3rn0-H&&show_icons=true&hide_border=true&theme=blue-green"/>
+<img align="right" width="62%" src="https://github-readme-stats.vercel.app/api?username=1nf3rn0-H&count_private=true&show_icons=true&hide_border=true&theme=blue-green" href="https://github.com/1n40"/>
 <br>
 
 
@@ -39,5 +39,5 @@ Server: Werkzeug/2.0.1 Python/3.9.0
 
 ---
 <p>
-<a href="https://www.linkedin.com/in/harsh-mehta-a74283198" title="linkedin" ><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="16%" height="4%"></a>  <a href="mailto:harsh227011@gmail.com" title="gmail"><img align="right" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="5%" height="5%"></a>
+<a href="https://www.linkedin.com/in/1nf3rn0-h/" title="linkedin" ><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="16%" height="4%"></a>  <a href="mailto:harsh227011@gmail.com" title="gmail"><img align="right" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="5%" height="5%"></a>
 </p>
