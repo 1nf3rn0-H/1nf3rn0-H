@@ -1,6 +1,6 @@
-<h1 align="center">Harsh Mehta (1nf3rn0-H) </h1>
+<h1 align="center">Harsh Mehta (1nf3rn0-H) 🦅</h1>
 
-<h3 align="center">Detection Engineering | Threat Research</h3>
+<h3 align="center">Detection Engineering | Threat Research | Platform Security</h3>
 
 <p align="center">
   <a href="https://github.com/1nf3rn0-H">
@@ -15,17 +15,17 @@
 ### ⚙️ The Core Triad: My Engineering Focus
 
 #### 1. 🛡️ Detection & Platform Engineering
-Modern defense requires software engineering principles. I focus on treating **Detection-as-Code (DaC)**, building reliable CI/CD pipelines for security alerts, and developing custom connectors to normalize telemetry.
-* **Featured Architecture:** Building scalable SIEM solutions and custom data pipelines (e.g., my `Splunk-connector` project).
-* **Research & Methodology:** Developing **Detection Quality Indicators (DQIs)** to measure and optimize rule fidelity. 
+Modern defense requires software engineering principles. I advocate for **Detection-as-Code (DaC)**, building reliable CI/CD pipelines for security alerts, and engineering custom connectors to normalize telemetry.
+* **Architecture:** Building scalable SIEM solutions and robust data pipelines (e.g., `Splunk-connector`).
+* **Methodology:** Developing **Detection Quality Indicators (DQIs)** to measure, tune, and optimize rule fidelity. 
 
 #### 2. 🦠 Threat Research & Malware Analysis
-To build robust detections, you have to understand the adversary's tradecraft at the binary level.
+To build high-fidelity detections, you must understand adversary tradecraft at the binary and kernel levels.
 * **Deep Dives:** Performing Static Application Security Testing (SAST) and reverse engineering on active malware strains (like **PoetRAT**).
-* **Custom Tooling:** Developing low-level operational tools (e.g., custom `keylogger` development) to understand endpoint hooking and evasion techniques.
+* **Low-Level Tooling:** Developing operational tools (like my `eBPF-Threat-Hunter-Sensor`) to understand kernel-level execution, hooking, and evasion techniques.
 
 #### 3. ⚔️ Offensive Security & CTFs
-Thinking like an attacker is a prerequisite for a good defender. I actively compete in global CTFs, focusing on Reverse Engineering, Cryptography, and Web Exploitation.
+Thinking like an attacker is a prerequisite for a formidable defender. I actively compete in global CTFs, specializing in Reverse Engineering, Cryptography, and Web Exploitation.
 * **Campaigns:** Hack The Box Cyber Apocalypse, KnightCTF, TCS HackQuest.
 
 ---
@@ -54,7 +54,11 @@ Thinking like an attacker is a prerequisite for a good defender. I actively comp
 
 ### 📚 Publications & Research
 
-I document my platform builds, threat breakdowns, and security theories on [Medium](https://medium.com/@1nf3rn0-h). 
+I document my platform builds, threat breakdowns, and security theories on [Medium](https://medium.com/@1nf3rn0-h), and publish original academic research in IEEE Xplore. 
+
+**Academic Research:**
+- ⚓ **[Defending Marine Ships against Ethernet based Cyberattacks](https://ieeexplore.ieee.org/document/10179830)** (IEEE ICECCT, 2023)
+  *Explored maritime critical infrastructure vulnerabilities and proposed a PowerShell-based threat hunting mitigation strategy against UDP-injected GPS spoofing attacks on ship internal networks.*
 
 **Platform & Detection Strategies:**
 - 📐 **[Detection Quality Indicators: A Structured Approach to Better Detections](https://1nf3rn0-h.medium.com/detection-quality-indicators-a-structured-approach-to-better-detections-ee8d93cc6ba2)**
@@ -67,27 +71,13 @@ I document my platform builds, threat breakdowns, and security theories on [Medi
 | Repository | Description | Domain |
 | :--- | :--- | :--- |
 | **[`Splunk-connector`](https://github.com/1nf3rn0-H/Splunk-connector)** | Custom data pipeline connector for SIEM telemetry ingestion. | Platform Eng |
-| **[`eBPF-Threat-Hunter-Sensor`](https://github.com/1nf3rn0-H/eBPF-Threat-Hunter-Sensor)** | Low-level research tool for understanding OS hooking mechanisms. | Threat Research |
+| **[`eBPF-Threat-Hunter-Sensor`](https://github.com/1nf3rn0-H/eBPF-Threat-Hunter-Sensor)** | Kernel-level observability and security monitoring tool leveraging eBPF. | Threat Research |
 | **[`HTB-Cyber-Apocalypse-2021`](https://github.com/1nf3rn0-H/HTB-Cyber-Apocalypse-2021)** | Comprehensive scripts and reverse engineering writeups. | Offensive Sec / RE |
 | **[`KCTF-Writeup`](https://github.com/1nf3rn0-H/KCTF-Writeup)** | Solutions showcasing binary analysis and scripting. | Offensive Sec / RE |
 
 ---
 
-### 📊 GitHub Activity
-
 <p align="center">
-  <a href="https://github.com/1nf3rn0-H">
-    <img src="https://github-readme-stats.vercel.app/api?username=1nf3rn0-H&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/1nf3rn0-H">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1nf3rn0-H&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
-  </a>
-</p>
-
----
-<p align="center">
-  <i>Let's talk about building resilient security systems.</i> <br>
-  <b>[LinkedIn] | [Twitter] | [Blog]</b>
+  <i>Let's talk about building resilient security systems.</i> <br><br>
+  <b><a href="https://www.linkedin.com/in/1nf3rn0-h/">LinkedIn</a> | <a href="https://1nf3rn0-h.medium.com/">Medium</a></b>
 </p>
