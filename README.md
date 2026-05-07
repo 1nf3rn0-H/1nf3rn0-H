@@ -1,4 +1,4 @@
-<h1 align="center">Harsh Mehta (1nf3rn0-H) 🦅</h1>
+<h1 align="center">Harsh Mehta (1nf3rn0-H) </h1>
 
 <h3 align="center">Detection Engineering | Threat Research | Platform Security</h3>
 
